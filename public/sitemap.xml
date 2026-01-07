@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Turkish Pages -->
+  <url>
+    <loc>https://cyprusterracube.com/tr</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr" />
+  </url>
+  <url>
+    <loc>https://cyprusterracube.com/tr/hakkimizda</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en/hakkimizda" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr/hakkimizda" />
+  </url>
+  <url>
+    <loc>https://cyprusterracube.com/tr/projeler</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en/projeler" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr/projeler" />
+  </url>
+  <url>
+    <loc>https://cyprusterracube.com/tr/iletisim</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en/iletisim" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr/iletisim" />
+  </url>
+
+  <!-- English Pages -->
+  <url>
+    <loc>https://cyprusterracube.com/en</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr" />
+  </url>
+  <url>
+    <loc>https://cyprusterracube.com/en/hakkimizda</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en/hakkimizda" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr/hakkimizda" />
+  </url>
+  <url>
+    <loc>https://cyprusterracube.com/en/projeler</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en/projeler" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr/projeler" />
+  </url>
+  <url>
+    <loc>https://cyprusterracube.com/en/iletisim</loc>
+    <lastmod>2026-01-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://cyprusterracube.com/en/iletisim" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://cyprusterracube.com/tr/iletisim" />
+  </url>
+</urlset>
