@@ -65,23 +65,6 @@ export async function generateMetadata(): Promise<Metadata> {
         "max-snippet": -1,
       },
     },
-    icons: {
-      icon: [
-        {
-          url: "/icon-light-32x32.png",
-          media: "(prefers-color-scheme: light)",
-        },
-        {
-          url: "/icon-dark-32x32.png",
-          media: "(prefers-color-scheme: dark)",
-        },
-        {
-          url: "/icon.svg",
-          type: "image/svg+xml",
-        },
-      ],
-      apple: "/apple-icon.png",
-    },
   }
 }
 
@@ -92,7 +75,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="tr">
-      <body className={`${inter.variable} ${libreBaskerville.variable} font-sans antialiased`}>
+      <head>
+        {/* Google Site Doğrulama Meta Etiketi */}
+        <meta
+          name="google-site-verification"
+          content="vOyzOkk8haMZpVkH3CO79yn0VVRLC0AfIJZbi98utyM"
+        />
+      </head>
+      <body
+        className={`${inter.variable} ${libreBaskerville.variable} font-sans antialiased`}
+      >
         {children}
         <Analytics />
       </body>
