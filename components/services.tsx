@@ -20,7 +20,7 @@ export function Services({ lang }: { lang: Locale }) {
         lang === "tr"
           ? "Temelden itibaren terracubeleri kullanarak bütün projeyi baştan sona uyguluyoruz."
           : "We implement the entire project from foundation using terra cubes.",
-      image: "/construction-site-terra-cube-building-process.jpg",
+      image: "/architectural-design-planning-sustainable-building.jpg",
     },
   ]
 

@@ -34,7 +34,7 @@ export function Hero({ lang }: { lang: Locale }) {
           </div>
           <div className="relative h-[500px] lg:h-[600px] rounded-3xl overflow-hidden shadow-2xl">
             <Image
-              src="/modern-sustainable-terra-cube-building-natural-mat.jpg"
+              src="/modern-sustainable-terra-cube-building-natural-mat.jpeg"
               alt="Terra Cube Ekolojik Yapı"
               fill
               className="object-cover"
